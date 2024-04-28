@@ -122,4 +122,4 @@ handlers:
 gcloud app deploy
 ```
 
-> All Done! You have successfully deployed your app in google cloud.
+> All Done! You have successfully deployed your app in google cloud. 
